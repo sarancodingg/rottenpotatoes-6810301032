@@ -4,7 +4,7 @@ Template repository for Lab L1 (310-2205 Software Engineering, semester 2/2569).
 
 ![ci](https://github.com/<you>/<repo>/actions/workflows/ci.yml/badge.svg)
 
-แก้ `<you>/<repo>` ในบรรทัดบนเป็นชื่อ GitHub และชื่อ repository ของคุณ
+แก้ `<sarancodingg>/<rottenpotatoes-6810301032>` ในบรรทัดบนเป็นชื่อ GitHub และชื่อ repository ของคุณ
 (Replace `<you>/<repo>` above with your GitHub user and repository name.)
 
 ## เริ่มที่นี่ (Start here)
